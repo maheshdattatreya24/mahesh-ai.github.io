@@ -94,6 +94,25 @@ border-radius:6px;
 margin-top:10px;
 }
 
+
+
+.contact-grid{
+display:grid;
+grid-template-columns:repeat(auto-fit,minmax(220px,1fr));
+gap:25px;
+margin-top:30px;
+}
+
+.contact-item{
+background:#1e293b;
+padding:20px;
+border-radius:8px;
+}
+
+.contact-item a{
+color:#38bdf8;
+text-decoration:none;
+}
 footer{
 text-align:center;
 padding:30px;
