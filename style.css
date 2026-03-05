@@ -118,3 +118,39 @@ text-align:center;
 padding:30px;
 background:#020617;
 }
+
+
+@media (max-width: 768px){
+
+.navbar{
+flex-direction:column;
+gap:10px;
+padding:15px;
+}
+
+.nav-links{
+flex-wrap:wrap;
+justify-content:center;
+gap:15px;
+}
+
+.home-content{
+flex-direction:column;
+text-align:center;
+gap:40px;
+}
+
+.home-image img{
+width:180px;
+height:180px;
+}
+
+.section{
+padding:100px 25px;
+}
+
+.project-grid{
+grid-template-columns:1fr;
+}
+
+}
