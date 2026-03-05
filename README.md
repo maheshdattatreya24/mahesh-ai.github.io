@@ -1,5 +1,4 @@
-maheshdattatreya24.github.io
-porfolio website 
+
 # AI & Machine Learning Portfolio
 
 This repository contains the source code for my personal AI and Machine Learning portfolio website.
