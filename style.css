@@ -28,6 +28,11 @@ color:#38bdf8;
 font-size:18px;
 }
 
+.contact-item i{
+margin-right:10px;
+color:#38bdf8;
+font-size:18px;
+}
 
 .tech-icons{
 display:flex;
