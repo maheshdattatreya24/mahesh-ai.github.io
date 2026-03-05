@@ -148,7 +148,18 @@ flex-direction:column;
 text-align:center;
 gap:40px;
 }
+.progress{
+background:#1e293b;
+height:10px;
+border-radius:6px;
+margin-bottom:20px;
+}
 
+.progress-bar{
+height:10px;
+background:#38bdf8;
+border-radius:6px;
+}
 .home-image img{
 width:180px;
 height:180px;
