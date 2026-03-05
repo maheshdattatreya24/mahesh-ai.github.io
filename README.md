@@ -1,2 +1,2 @@
-# mahesh-ai.github.io
+maheshdattatreya24.github.io
 porfolio website 
