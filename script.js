@@ -17,6 +17,20 @@ navLinks.classList.remove("active");
 
 // SMOOTH SCROLL
 
+
+document.querySelector(".logo").addEventListener("click", function(e){
+e.preventDefault();
+
+const target = document.querySelector("#home");
+
+window.scrollTo({
+top: target.offsetTop - 80,
+behavior: "smooth"
+});
+
+});
+
+
 document.querySelectorAll(".nav-links a").forEach(anchor => {
 
 anchor.addEventListener("click", function(e){
