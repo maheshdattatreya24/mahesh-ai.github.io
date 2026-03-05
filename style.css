@@ -69,6 +69,16 @@ justify-content:center;
 padding-top:120px;
 }
 
+/* Fix for mobile screens */
+@media (max-width:768px){
+
+.home{
+min-height:auto;
+padding-top:100px;
+padding-bottom:40px;
+}
+
+}
 .home-content{
 display:flex;
 align-items:center;
@@ -103,7 +113,7 @@ display:inline-block;
 /* SECTION */
 
 .section{
-padding:70px 0;
+padding:50px 0;
 }
 
 /* SKILLS */
